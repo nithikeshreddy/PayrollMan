@@ -1,4 +1,4 @@
-# ⏰ Timecard Management API
+# ⏰ # PayrollMan – Full-Stack Payroll & Timecard Platform
 
 > **Production-ready employee time tracking system built with FastAPI and Clean Architecture**
 
